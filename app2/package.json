@@ -1,0 +1,14 @@
+{
+    "name": "app2",
+    "version": "1.0.0",
+    "type": "module",
+    "exports": {
+        ".": "./src/index.js"
+    },
+    "scripts": {
+      "run": "webpack-cli serve &"
+    },
+    "author": "",
+    "license": "MIT",
+    "description": ""
+}

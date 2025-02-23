@@ -1,0 +1,12 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "webpack-cli serve &"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}

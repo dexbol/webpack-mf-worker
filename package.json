@@ -3,9 +3,7 @@
     "version": "1.0.0",
     "main": "index.js",
     "type": "module",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
+    "scripts": {},
     "author": "Zhang Kai <dexbolg@gmail.com>",
     "license": "MIT",
     "description": "",
@@ -16,12 +14,12 @@
     ],
     "devDependencies": {
         "html-webpack-plugin": "^5.6.3",
+        "prettier": "^3.5.2",
         "webpack": "^5.98.0",
         "webpack-cli": "^6.0.1",
         "webpack-dev-server": "^5.2.0"
     },
     "dependencies": {
-        "@module-federation/enhanced": "^0.9.0",
-        "prettier": "^3.5.2"
+        "@module-federation/enhanced": "^0.9.0"
     }
 }
